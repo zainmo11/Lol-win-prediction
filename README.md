@@ -1,8 +1,11 @@
 # League of Legends Diamond Ranked Games (10 min) Dataset
+https://www.kaggle.com/datasets/bobbyscience/league-of-legends-diamond-ranked-games-10-min/
 ## Overview
 This project involves classifying League of Legends ranked games based on the first 10 minutes of gameplay using a neural network implemented from scratch in C++. The neural network aims to predict the outcome of high-ELO solo queue games.
 ## Achieved Accuracy
 - The neural network achieved a mean accuracy of 72% in predicting the outcomes of the games using k-fold cross-validation.
+  ![image](https://github.com/zainmo11/Lol-win-prediction/assets/89034348/6e769a85-8b9c-4617-b50d-a8111c502a9d)
+
 ## About the Dataset
 ### Context
 League of Legends is a MOBA (Multiplayer Online Battle Arena) where two teams (Blue and Red) compete to destroy each other's Nexus. The map features three lanes, a jungle, and five roles. The primary goal is to destroy the enemy Nexus to win the game.
