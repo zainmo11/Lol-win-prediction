@@ -40,7 +40,7 @@ The Neuron class represents a single neuron in the neural network. It encapsulat
 - transfer(): Applies the sigmoid activation function to the activation value.
 - transfer_derivative(): Computes the derivative of the sigmoid function, used for backpropagation.
 - initWeights(int n_weights): Initializes weights with random values.
-###Layer
+### Layer
 The Layer class represents a layer of neurons in the neural network. It manages a collection of Neuron objects.
 
 #### Data Members:
