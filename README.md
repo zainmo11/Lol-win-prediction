@@ -141,6 +141,3 @@ std::vector<std::vector<float>> load_csv_data(std::string filename);
 ```
 ## License
 This code and dataset are provided under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-Thanks to Riot Games for providing the data and API resources used in this project.
